@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Hello CMU",
+      "setup": "",
+      "run": "python main.py",
+      "input": "",
+      "output": "Hello CMU!",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
